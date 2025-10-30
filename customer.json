@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Alyssa Perry",
+      "image": "https://static.photos/people/200x200/110",
+      "review": "The Dell Inspiron I bought from this site works flawlessly! Smooth performance, quick delivery, and great support.",
+      "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+      "id": 2,
+      "name": "Sara Ahmed",
+      "image": "https://static.photos/people/200x200/25",
+      "review": "Loved the ASUS ROG laptop! It’s a bit pricey but the build quality and graphics performance are worth it.",
+      "rating": "⭐⭐⭐⭐"
+    },
+    {
+      "id": 3,
+      "name": "Tanvir Hossain",
+      "image": "https://static.photos/people/200x200/122",
+      "review": "Got a Logitech mouse and Razer keyboard combo. Works great for gaming, and both were delivered on time.",
+      "rating": "⭐⭐⭐⭐"
+    }
+  ]
+}
