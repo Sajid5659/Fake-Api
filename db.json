@@ -20,7 +20,15 @@
       "image": "https://static.photos/people/200x200/122",
       "review": "Got a Logitech mouse and Razer keyboard combo. Works great for gaming, and both were delivered on time.",
       "rating": 3.8
+    },
+    {
+      "id": 4,
+      "name": "Nadia Karim",
+      "image": "https://static.photos/people/200x200/170",
+      "review": "Purchased a Samsung Odyssey monitor — the visuals are amazing, and it really improved my editing workflow. Totally worth it!",
+      "rating": 4.7
     }
   ]
 }
+
 
